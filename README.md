@@ -15,7 +15,7 @@ management from concept through production release.
 | Product | Type | Frequency Range | Notes |
 |---|---|---|---|
 | [DX10FRO260-20/-26](https://github.com/shansuberr-ux/JMA-portfolio/blob/main/DX10FRO260-20-26.pdf) | 2Ft Panel Antenna, 10-port | 698–3980 MHz | Small cell, pole/wall mount |
-| [MX08FIT665-02E](./MX08FIT665-02E) | X-Pol 8-Port Antenna | 698–4200 MHz | 6 ft macro panel, Smart Bias-Ts |
+| [MX08FIT665-02E](https://github.com/shansuberr-ux/JMA-portfolio/blob/main/MX08FIT665-02E.pdf) | X-Pol 8-Port Antenna | 698–4200 MHz | 6 ft macro panel, Smart Bias-Ts |
 | [MX06FRO660-02E](./MX06FRO660-02E) | X-Pol Hex-Port, Fast Roll-Off | 698–2200 MHz | FRO pattern for SINR improvement |
 | [MX06FHG665-HG](./MX06FHG665-HG) | X-Pol Hex-Port, High Gain | 698–2180 MHz | High-gain low/mid-band variant |
 
